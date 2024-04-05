@@ -3,7 +3,6 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.phloxcorp.clever",
-      "sha256_cert_fingerprints":
-      ["52:A9:61:3D:16:46:7A:6A:3E:E2:58:DF:6E:53:A8:B5:5E:96:42:81:25:82:8C:26:2B:67:EB:63:5B:6A:0C:31"]
+      "sha256_cert_fingerprints": ["52:A9:61:3D:16:46:7A:6A:3E:E2:58:DF:6E:53:A8:B5:5E:96:42:81:25:82:8C:26:2B:67:EB:63:5B:6A:0C:31"]
     }
   }]
